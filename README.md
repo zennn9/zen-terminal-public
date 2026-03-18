@@ -57,3 +57,4 @@ Download the latest Windows `.msi` release from the Releases page and install it
 
 - This is the public release repository.
 - It does not contain the full application source.
+> made with love by ChatGPT Codex 💔
