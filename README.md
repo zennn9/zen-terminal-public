@@ -22,9 +22,6 @@ alias
 launch
 music
 timer
-tc
-ai
-jp hello
 update
 version
 ```
@@ -34,7 +31,6 @@ version
 - Minimal terminal-style interface
 - Global shortcut support
 - Config system with special UI-based settings
-- Background image customization
 - Built-in updater for packaged releases
 
 ## Updates
