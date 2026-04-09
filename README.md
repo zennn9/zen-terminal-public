@@ -4,14 +4,14 @@
 
 It is designed around fast keyboard-first use: open the app, type a short command, and do something immediately.
 
-## What It Does
-
-- Launch apps and saved shortcuts
-- Run quick terminal-style commands
-- Search the web and media sites
-- Control YouTube Music
-- Use AI and JP translation commands
-- Customize startup and terminal behavior through config
+## What It Can Do (Examples)
+- Launch apps
+- Translate text
+- Calculator
+- Talk to AI
+- OCR Translation
+- Timer
+- Notes
 
 ## Example Commands
 
